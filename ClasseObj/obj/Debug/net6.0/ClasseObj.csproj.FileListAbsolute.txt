@@ -1,0 +1,15 @@
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\bin\Debug\net6.0\ClasseObj.exe
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\bin\Debug\net6.0\ClasseObj.deps.json
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\bin\Debug\net6.0\ClasseObj.runtimeconfig.json
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\bin\Debug\net6.0\ClasseObj.dll
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\bin\Debug\net6.0\ClasseObj.pdb
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\obj\Debug\net6.0\ClasseObj.csproj.AssemblyReference.cache
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\obj\Debug\net6.0\ClasseObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\obj\Debug\net6.0\ClasseObj.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\obj\Debug\net6.0\ClasseObj.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\obj\Debug\net6.0\ClasseObj.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\obj\Debug\net6.0\ClasseObj.dll
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\obj\Debug\net6.0\refint\ClasseObj.dll
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\obj\Debug\net6.0\ClasseObj.pdb
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\obj\Debug\net6.0\ClasseObj.genruntimeconfig.cache
+C:\Users\Fagner Fernandes\source\repos\ClasseObj\ClasseObj\obj\Debug\net6.0\ref\ClasseObj.dll
